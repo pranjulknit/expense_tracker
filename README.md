@@ -1,7 +1,9 @@
 # expense_tracker
 
-A new Flutter project.
+A Expense Tracker App
 
+# Output
+<img src="https://github.com/pranjulknit/expense_tracker/blob/main/lib/output.gif" height="480" width="275">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
